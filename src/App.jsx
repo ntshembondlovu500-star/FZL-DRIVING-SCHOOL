@@ -21,7 +21,7 @@ export default function App() {
       {/* HERO */}
       <section
         className="relative h-screen flex items-center justify-center text-white text-center"
-        style={{ backgroundImage: "url('/images/car-side.png')", backgroundSize: "cover", backgroundPosition: "center" }}
+        style={{ backgroundImage: "url('public/images/car-front.png.png')", backgroundSize: "cover", backgroundPosition: "center" }}
       >
         <div className="absolute inset-0 bg-blue-900/70"></div>
         <div className="relative z-10 px-6 max-w-4xl">
