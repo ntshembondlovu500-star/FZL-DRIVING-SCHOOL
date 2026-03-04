@@ -21,7 +21,7 @@ export default function App() {
       {/* HERO */}
       <section
         className="relative h-screen flex items-center justify-center text-white text-center"
-        style={{ backgroundImage: "url('public/images/car-front.png.png')", backgroundSize: "cover", backgroundPosition: "center" }}
+        style={{ backgroundImage: "url('/images/truck-front.png')", backgroundSize: "cover", backgroundPosition: "center" }}
       >
         <div className="absolute inset-0 bg-blue-900/70"></div>
         <div className="relative z-10 px-6 max-w-4xl">
@@ -120,8 +120,8 @@ export default function App() {
       {/* CONTACT */}
       <section id="contact" className="bg-blue-900 text-white py-32 text-center">
         <h2 className="text-4xl font-bold mb-12">Contact Us</h2>
-        <p className="text-xl mb-6">📞 <a href="tel:0835326609" className="underline">083 532 6609</a></p>
-        <p className="text-xl mb-6">📱 <a href="tel:0100230977" className="underline">010 023 0977</a></p>
+        <p className="text-xl mb-6">📞 <a href="tel:083 532 6609" className="underline">083 532 6609</a></p>
+        <p className="text-xl mb-6">📱 <a href="tel: 011 045 6409" className="underline">010 023 0977</a></p>
         <p className="text-xl mb-6">📍 Auckland Park, Johannesburg</p>
         <p className="text-lg">Open Monday - Saturday</p>
       </section>
