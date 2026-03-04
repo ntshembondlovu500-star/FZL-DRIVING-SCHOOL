@@ -57,9 +57,23 @@ export default function App() {
       <section id="vehicles" className="py-32 bg-white text-center">
         <h2 className="text-4xl font-bold text-blue-900 mb-16">Our Training Vehicles</h2>
         <div className="grid md:grid-cols-3 gap-10 max-w-6xl mx-auto px-6">
-          <img src="public/images/truck-front.png" alt="Truck" className="rounded-3xl shadow-2xl w-34 h-auto rounded-3xl shadow-2xl" />
-          <img src="/public/images/car-front.png.png" alt="Car Front" className="rounded-3xl shadow-2xl w-34 h-auto rounded-3xl shadow-2xl" />
-          <img src="/public/images/car-side.png.png" alt="Car Side" className="rounded-3xl shadow-2xl w-34 h-auto rounded-3xl shadow-2xl" />
+   <img 
+  src="/images/truck-front.png" 
+  alt="Truck" 
+  className="w-64 h-auto rounded-3xl shadow-2xl" 
+/>
+
+<img 
+  src="/images/car-front.png" 
+  alt="Car Front" 
+  className="w-64 h-auto rounded-3xl shadow-2xl" 
+/>
+
+<img 
+  src="/images/car-side.png" 
+  alt="Car Side" 
+  className="w-64 h-auto rounded-3xl shadow-2xl" 
+/>
         </div>
       </section>
 
