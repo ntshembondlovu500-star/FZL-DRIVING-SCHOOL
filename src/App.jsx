@@ -44,7 +44,7 @@ export default function App() {
 
       {/* ABOUT */}
       <section id="about" className="max-w-7xl mx-auto px-6 py-32 grid md:grid-cols-2 gap-20 items-center">
-        <img src="/images/truck-front.png" alt="FZL Training Truck" className="rounded-3xl shadow-2xl w-full" />
+        <img src="/images/car-front.png.png" alt="FZL Training Truck" className="rounded-3xl shadow-2xl w-full" />
         <div>
           <h2 className="text-4xl font-bold text-blue-900 mb-8">Premium Driver Training</h2>
           <p className="text-lg leading-loose text-gray-700">
