@@ -121,8 +121,8 @@ export default function App() {
       <section id="contact" className="bg-blue-900 text-white py-32 text-center">
         <h2 className="text-4xl font-bold mb-12">Contact Us</h2>
         <p className="text-xl mb-6">📞 <a href="tel:083 532 6609" className="underline">083 532 6609</a></p>
-        <p className="text-xl mb-6">📱 <a href="tel: 011 045 6409" className="underline">010 023 0977</a></p>
-        <p className="text-xl mb-6">📍 Auckland Park, Johannesburg</p>
+        <p className="text-xl mb-6">📱 <a href="tel: 011 045 6409" className="underline">011 045 6409</a></p>
+        <p className="text-xl mb-6">📍 Shop No 107 , Gate No ,02 University of Johannesburg,Akedemie Road,Auckland Park</p>
         <p className="text-lg">Open Monday - Saturday</p>
       </section>
 
