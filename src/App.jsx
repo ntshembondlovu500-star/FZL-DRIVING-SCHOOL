@@ -1,5 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
+import { Analytics } from "@vercel/analytics/react";
 
 export default function App() {
   return (
@@ -136,6 +137,7 @@ export default function App() {
         © {new Date().getFullYear()} FZL Driving School. All Rights Reserved.
       </footer>
 
+      <Analytics />
     </div>
   );
 }
